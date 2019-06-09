@@ -4,5 +4,7 @@ Code for the 2019 Square One Autonomous Innovative Vehicle Design challenge, dev
 
 
 `RemoteControl/` contains Python code that runs a remote-control webserver and allows control of all the autonomous tasks, intended for Raspberry Pi equipped with camera
+
 `LaneDetector/` contains code for autonomous lane following
+
 `aivd_arduino/` contains the Arduino code, which controls motors, lights etc.
